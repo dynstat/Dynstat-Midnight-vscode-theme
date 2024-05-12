@@ -2,11 +2,12 @@
     "name": "dynstat-midnight",
     "displayName": "Dynstat Midnight",
     "description": "Inspired from popular 'Field Lights Theme' by Sebastián Veggiani, but darker version.",
-    "version": "1.0.0",
+    "version": "1.8.0",
     "publisher": "dynstat",
+    "icon": "midnightfire.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dynstat/Dynstat-Midnight-vscode-theme?tab=readme-ov-file"
+        "url": "https://github.com/dynstat/Dynstat-Midnight-vscode-theme"
     },
     "engines": {
         "vscode": "^1.38.0"
