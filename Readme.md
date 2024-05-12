@@ -12,11 +12,11 @@ A dark theme for Visual Studio Code, inspired by the popular 'Field Lights Theme
 
 ## Feedback
 
-If you have any feedback or suggestions, please create an issue on the [GitHub repository](https://github.com/dynstat/field-lights-space).
+If you have any feedback or suggestions, please create an issue on the [GitHub repository](https://github.com/dynstat/Dynstat-Midnight-vscode-theme/issues).
 
 ## Credits
 
-This theme is inspired by the 'Field Lights Theme' by Sebastián Veggiani. The original theme can be found [here](https://github.com/sveggiani/field-lights-vscode-theme).
+This theme is inspired by the 'Field Lights Theme' by Sebastián Veggiani. The original theme can be found [here](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights).
 
 ## License
 
