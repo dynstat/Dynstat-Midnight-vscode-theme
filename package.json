@@ -1,0 +1,22 @@
+{
+    "name": "dynstat-midnight",
+    "displayName": "Dynstat Midnight",
+    "description": "Inspired from popular 'Field Lights Theme' by Sebastián Veggiani, but darker version.",
+    "version": "1.0.0",
+    "publisher": "Vivek Singh",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dynstat Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./dynstat-midnight.json"
+            }
+        ]
+    }
+}
