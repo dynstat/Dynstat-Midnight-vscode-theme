@@ -10,6 +10,7 @@
         "tab.activeBackground": "#242834",
         "tab.inactiveBackground": "#181c27",
         "tab.border": "#12141c",
+        "tab.activeBorder": "#FFCC66",
         "activityBar.background": "#151720",
         "activityBar.border": "#151720",
         "activityBar.foreground": "#738699",
