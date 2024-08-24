@@ -1,6 +1,6 @@
 # Dynstat Midnight theme
 
-A dark theme for Visual Studio Code, inspired by the popular 'Field Lights Theme' by Sebastián Veggiani, but with a darker color scheme.
+A dark theme for Visual Studio Code, inspired by the popular 'Field Lights Theme' but with a different color scheme.
 ## Marketplace Link
 
 You can simply search for "Dynstat Midnight" in vscode extensions or install the Dynstat Midnight theme theme from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dynstat.dynstat-midnight).
